@@ -56,6 +56,6 @@ app.get('/api/players/:playerName', (request, response) => {
     // const name = request.params.playerName.toLowerCase();
 })
 
-app.listen(PORT, () => {
+app.listen(process.env.PORT || PORT, () => {
     console.log('Whats up')
 })
