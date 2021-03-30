@@ -38,7 +38,7 @@ const players = {
         'position': '',
         'hometown': '',
     },
-    '': {
+    'Magic Johnson': {
         'name': '',
         'number': ,
         'position': '',
