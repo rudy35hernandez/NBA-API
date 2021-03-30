@@ -44,7 +44,7 @@ const players = {
         'position': '',
         'hometown': '',
     },
-    '': {
+    'These are not real': {
         'name': '',
         'number': ,
         'position': '',
