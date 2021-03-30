@@ -50,7 +50,7 @@ const players = {
         'position': '',
         'hometown': '',
     },
-    'One more': {
+    'One more to go': {
         'name': '',
         'number': ,
         'position': '',
