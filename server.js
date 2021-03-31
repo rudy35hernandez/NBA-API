@@ -32,30 +32,6 @@ const players = {
         'position': 'Small Forward',
         'hometown': 'Flint, Michigan',
     },
-    'Montrezl Harrell': {
-        'name': '',
-        'number': ,
-        'position': '',
-        'hometown': '',
-    },
-    'Magic Johnson': {
-        'name': '',
-        'number': ,
-        'position': '',
-        'hometown': '',
-    },
-    'These are not real': {
-        'name': '',
-        'number': ,
-        'position': '',
-        'hometown': '',
-    },
-    'One more to go': {
-        'name': '',
-        'number': ,
-        'position': '',
-        'hometown': '',
-    },
      'unknown': {
          'name': 'unknown',
      }
